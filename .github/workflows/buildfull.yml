@@ -22,7 +22,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: nikgapps
-          path: /home/runner/work/projectnikgapps/Releases/17/NikGapps-full-arm64-17-20261023-unofficial.zip
+          path: /home/runner/work/projectnikgapps/Releases/17/NikGapps-full-arm64-17-20261030-unofficial.zip
       
 
       - name: Raccogli gli zip
